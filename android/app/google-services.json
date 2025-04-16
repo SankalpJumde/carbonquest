@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871413050411",
+    "project_id": "carbon-quest-c9ac2",
+    "storage_bucket": "carbon-quest-c9ac2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871413050411:android:23c44d59e4942aaf514e6e",
+        "android_client_info": {
+          "package_name": "com.stackoverlords.carbonquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjK-PYCorE76WsCkLLWJFlFgOj4mXvCLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
